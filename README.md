@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @1j4d5
+- 👀 I’m interested in websoketing , web api & web development
+- 🌱 I’m currently learning php in a advanced level
+- 💞️ I’m looking to collaborate on a nice project
+- 📫 How to reach me ijads.main@gmail.com
+- 🔑 objective is to provide easy and new dependencies to our coding comunity 
