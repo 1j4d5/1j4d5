@@ -8,7 +8,7 @@
 <body style="text-align: center;">
   
   
-  <img src="https://media3.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif?cid=ecf05e47z69bx014x0mw2w9kf2dwz9lhi5chw1aslalwdrg8&amp;ep=v1_gifs_search&amp;rid=giphy.gif&amp;ct=g" alt="Coding The Matrix GIF" style="width: 100%; height: 200px;">
+  <img src="https://media3.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif?cid=ecf05e47z69bx014x0mw2w9kf2dwz9lhi5chw1aslalwdrg8&amp;ep=v1_gifs_search&amp;rid=giphy.gif&amp;ct=g" alt="Coding The Matrix GIF" style="width: 100%; height: auto;">
   
   <ul style="list-style-type: none; padding: 0;">
     <li>👋 Hi, I’m <a href="https://github.com/1j4d5">@1j4d5</a></li>
