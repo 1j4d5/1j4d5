@@ -1,6 +1,5 @@
 
-<div style="width:100%;height:0;padding-bottom:42%;position:relative;"><iframe src="https://giphy.com/embed/10zxDv7Hv5RF9C" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/loop-computer-matrix-10zxDv7Hv5RF9C">via GIPHY</a></p>
-
+<img src="https://media3.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif?cid=ecf05e47z69bx014x0mw2w9kf2dwz9lhi5chw1aslalwdrg8&amp;ep=v1_gifs_search&amp;rid=giphy.gif&amp;ct=g" alt="Coding The Matrix GIF" style="width: 500px; height: 208.333px; left: 0px; top: 0px; opacity: 0;">
 
 
 
