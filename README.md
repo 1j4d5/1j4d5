@@ -1,6 +1,6 @@
-<div style="text-align: center;">
+<p align="center">
 
-
+# Coding The Matrix GIF
 
 ![Coding The Matrix GIF](https://media3.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif?cid=ecf05e47z69bx014x0mw2w9kf2dwz9lhi5chw1aslalwdrg8&amp;ep=v1_gifs_search&amp;rid=giphy.gif&amp;ct=g)
 
@@ -11,4 +11,4 @@
 - 📫 How to reach me: [ijads.main@gmail.com](mailto:ijads.main@gmail.com)
 - 🔑 My objective is to provide easy and new dependencies to our coding community
 
-</div>
+</p>
