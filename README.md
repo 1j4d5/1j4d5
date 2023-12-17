@@ -13,7 +13,7 @@
   <ul style="list-style-type: none; padding: 0;">
     <li>👋 Hi, I’m <a href="https://github.com/1j4d5">@1j4d5</a></li>
     <li>👀 I’m interested in websockets, web APIs & web development</li>
-    <li>🌱 I’m currently learning PHP at an advanced level</li>
+    <li>🌱 I’m currently learning PHP, Py, C++, C#, and C at an advanced level</li>
     <li>💞️ I’m looking to collaborate on a nice project</li>
     <li>📫 How to reach me: <a href="mailto:ijads.main@gmail.com">ijads.main@gmail.com</a></li>
     <li>🔑 My objective is to provide easy and new dependencies to our coding community</li>
