@@ -10,7 +10,8 @@
 
 **building real-time web experiences, APIs, and low-level systems.**  
 pushing easy, fresh dependencies to the dev community — looking for the right collab to build something real.
-
+<br>
+<a href="ijadium.com">ijadium</a>
 </div>
 
 ---
