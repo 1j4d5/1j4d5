@@ -1,10 +1,17 @@
 <!DOCTYPE html>
+
 <html lang="en">
+  
 <head>
+  
 <meta charset="UTF-8">
+
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <title>@1j4d5</title>
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css">
+
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Syne:wght@400;700;800&display=swap');
 *{margin:0;padding:0;box-sizing:border-box;}
@@ -42,6 +49,7 @@ body{background:#050505;display:flex;justify-content:center;align-items:center;m
 .cursor{display:inline-block;width:2px;height:1em;background:#00ff88;margin-left:2px;vertical-align:text-bottom;animation:blink 1s step-end infinite;}
 @keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
 </style>
+
 </head>
 <body>
 <div class="wrap">
